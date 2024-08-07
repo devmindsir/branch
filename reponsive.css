@@ -1,0 +1,11 @@
+@media only screen and (max-width: 40em) {
+  .description {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 36em) {
+  .description {
+    width: 30%;
+  }
+}
